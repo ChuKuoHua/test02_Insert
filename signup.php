@@ -92,7 +92,7 @@
 
                 success:function(data)
                     {
-                        alert("success:" +data);
+                        alert("sign up success");
 			window.location.assign(window.location.href);
                     }
             });
